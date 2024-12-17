@@ -1,0 +1,251 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: beige;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    color: white;
+    text-align: center;
+    background-color: rgb(241, 201, 201);
+    padding: 12px 10px;
+}
+
+.nav li {
+    margin: 8px;
+    font-family: 'Potta One', system-ui;
+}
+
+.nav li:hover {
+
+    margin: 8px;
+    font-family: 'Potta One', system-ui;
+    cursor: pointer;
+    color: gray;
+
+
+
+}
+
+.nav li a {
+    margin: 8px;
+    font-family: 'Potta One', system-ui;
+    color: white;
+    font-size: 1.3rem;
+    list-style: none;
+
+}
+
+.nav li a:hover {
+
+    margin: 8px;
+    font-family: 'Potta One', system-ui;
+    cursor: pointer;
+    color: gray;
+    border-radius: 10px;
+
+
+}
+
+#id1 {
+    margin-left: 200px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+}
+
+.header {
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Potta One', system-ui;
+
+}
+
+
+.header2 img {
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(71, 64, 64);
+    color: white;
+}
+
+.cont {
+    text-align: center;
+    margin-top: 5px;
+    height: 100px;
+    width: 100%;
+    background-color: antiquewhite;
+    color: black;
+}
+
+#id2 {
+    margin-top: 50px;
+    font-size: 1.3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cont2 img {
+    margin-top: 20px;
+    width: 100%;
+    height: 400px;
+}
+
+.card {
+    height: 200px;
+    width: 400px;
+    background-color: bisque;
+    margin-left: 550px;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    border-left: 4px solid brown;
+    border-right: 2px solid brown;
+    border-bottom: 2px solid brown;
+    border-top: 2px solid brown;
+}
+
+#id3 {
+    color: rgb(241, 113, 63);
+    font-size: 1.3rem;
+}
+
+.hp {
+    margin-top: 100px;
+    list-style: none;
+    font-size: 1.4rem;
+}
+
+.footer2 {
+    margin-top: 1300px;
+    background-color: rgb(97, 96, 96);
+    text-align: center;
+    justify-content: center;
+    font-size: 1.3rem;
+color: white;
+}
+
+.container {
+    background-color: antiquewhite;
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+    font-size: 1.3rem;
+}
+
+.container img {
+    margin-top: 50px;
+    height: 500px;
+    width: 350px;
+}
+
+#id23 {
+    height: 70px;
+    width: 50px;
+
+}
+
+.footer3 {
+
+    text-align: center;
+    background-color: rgb(71, 64, 64);
+    color: white;
+}
+
+.ds img {
+    height: 600px;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 500px;
+}
+
+.bc {
+    background-color: antiquewhite;
+    height: 2700px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 1.4rem;
+    font-style: italic;
+}
+
+.bc img {
+    height: 500px;
+    width: 400px;
+    margin-top: 50px;
+
+}
+
+.bc h1 {
+    text-align: left;
+    margin-left: 50px;
+
+}
+
+.bs h3 {
+    text-align: left;
+    margin-left: 70px;
+}
+
+.ds {
+    width: 500px;
+    height: 700px;
+    margin-top: 50px;
+    font-size: 1.3rem;
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    float: left;
+}
+
+.db {
+    width: 500px;
+    height: 700px;
+    font-size: 1.3rem;
+    margin-top: 50px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 900px;
+}
+.db p{
+margin-top: 30px;
+font-size: 1.6rem;
+}
+.sb p{
+    margin-top: 30px;
+    font-size: 1.6rem;
+}
+#id0{
+    margin-top: 400px;
+    background-color: rgb(97, 96, 96);
+    text-align: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: white;
+}
+.dt{
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+color: rgb(212, 90, 110);
+font-size: 3rem;
+}
+.d2{
+
+    font-size: 1.3rem;
+    margin-top: 50px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
